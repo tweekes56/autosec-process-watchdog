@@ -1,0 +1,6 @@
+keylogger
+mimikatz
+netcat
+wireshark
+ncat
+powershell
